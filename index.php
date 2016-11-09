@@ -10,7 +10,12 @@
 /**************************************************
 	End Basic Setting
 **************************************************/
-echo "GG";
+
+
+
+
+echo "SSSSS";
+
 echo dware_location_href ( "delivery_sheet_management.php" );
 exit;
 
